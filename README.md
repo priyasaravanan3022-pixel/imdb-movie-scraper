@@ -1,4 +1,3 @@
-markdown
 # IMDb Top 250 Movie Scraper & Dashboard
 
 A Python-based mini project designed to extract top-rated movie details from IMDb, save them into a structured CSV format, and generate an interactive web dashboard for visual analytics.
